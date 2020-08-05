@@ -24,6 +24,7 @@ $utilities: map-merge(
   ),
   $utilities
 );
+@import 'footer';
 @import 'header';
 @import 'style';
 @import '../node_modules/bootstrap/scss/bootstrap.scss';
